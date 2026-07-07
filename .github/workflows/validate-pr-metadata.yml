@@ -1,6 +1,6 @@
 name: Validate PR Metadata and Check SDC-Tools Tasks
 on:
-  pull_request:
+  pull_request_target:
     types:
       - labeled
       - opened
