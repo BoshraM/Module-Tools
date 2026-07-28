@@ -9,4 +9,4 @@ set -euo pipefail
 # Line 3 should be "It contains many lines, and there are some things you may want to do with each of them.".
 # Line 11 should be "We also should remember, when we go shopping, to get 4 items: oranges, cheese, bread, olives.".
 
-sed 's/^\([0-9][0-9]*\) \(.*\)$/\2 \1/' input.txt
+sed 's/, */, /g' input.txt
