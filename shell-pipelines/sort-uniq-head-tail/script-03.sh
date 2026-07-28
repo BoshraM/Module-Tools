@@ -9,4 +9,4 @@ set -euo pipefail
 # Piotr Glasgow 15 2 25 11 8
 # Chandra Birmingham 12 6
 
-sort -k3 -nr scores-table.txt
+sort -k3 -nr scores-table.txt | head -n 3
