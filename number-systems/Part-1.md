@@ -6,49 +6,49 @@ The goal of these exercises is for you to gain an intuition for binary numbers. 
 
 The answers to these questions should be a number, either in binary, hex, or decimal.
 
-Q1: Convert the decimal number 14 to binary. 0,2,4,8,16,32,64,128,256
-Answer: 1110
+Q1: Convert the decimal number 14 to binary.
+Answer:
 
 Q2: Convert the binary number 101101 to decimal:
-Answer: 45
+Answer:
 
 Q3: Which is larger: 1000 or 0111?
-Answer: 1000
+Answer:
 
 Q4: Which is larger: 00100 or 01011?
-Answer: 01011
+Answer:
 
 Q5: What is 10101 + 01010?
-Answer: 11111
+Answer:
 
 Q6: What is 10001 + 10001?
-Answer: 100010
+Answer:
 
 Q7: What's the largest number you can store with 4 bits, if you want to be able to represent the number 0?
-Answer: 15
+Answer:
 
 Q8: How many bits would you need in order to store the numbers between 0 and 255 inclusive?
-Answer: 9
+Answer:
 
 Q9: How many bits would you need in order to store the numbers between 0 and 3 inclusive?
-Answer: 2
+Answer:
 
 Q10: How many bits would you need in order to store the numbers between 0 and 1000 inclusive?
-Answer: 10
+Answer:
 
 Q11: Convert the decimal number 14 to hex.
-Answer: E
+Answer:
  
 Q12: Convert the decimal number 386 to hex.
-Answer: 182
+Answer:
 
 Q13: Convert the hex number 386 to decimal.
-Answer: 902
+Answer:
 
 Q14: Convert the hex number B to decimal.
-Answer: 11
+Answer:
 
 Q15: If reading the byte 0x21 as a number, what decimal number would it mean?
-Answer: 33
+Answer:
 
 Q16: Continues in Part-2
