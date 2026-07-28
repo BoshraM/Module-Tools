@@ -28,7 +28,7 @@ Q7: What's the largest number you can store with 4 bits, if you want to be able 
 Answer: 15
 
 Q8: How many bits would you need in order to store the numbers between 0 and 255 inclusive?
-Answer: 9
+Answer: 8
 
 Q9: How many bits would you need in order to store the numbers between 0 and 3 inclusive?
 Answer: 2
